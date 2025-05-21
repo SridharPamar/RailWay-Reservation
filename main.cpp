@@ -129,7 +129,7 @@ void admin() {
 	list<reservation>::iterator r;
 	do {
 		system("CLS");
-		cout << "Pak Rail Reservation Systems 1.0" << endl << "--------------------------------" << endl;
+		cout << "IND Rail Reservation Systems 1.0" << endl << "--------------------------------" << endl;
 		cout << "0. Log out" << endl;
 		cout << "1. Add new station" << endl;
 		cout << "2. Delete a station" << endl;
